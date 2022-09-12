@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82">RESUME</a>
+
 <!--
 **yoonjoo-lee/yoonjoo-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
