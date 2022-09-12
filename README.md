@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div onclick='location.href='https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82''>RESUME</div>
+<div onclick='location.href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82"'>RESUME</div>
 <a href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82">RESUME</a>
 
 <!--
