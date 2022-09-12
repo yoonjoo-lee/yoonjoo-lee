@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<div onclick='location.href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82"'>RESUME</div>
-<a href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82">RESUME</a>
+
+<a href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82">📌RESUME</a>
+<a href="https://closed-cereal-0c2.notion.site/Portfolio-0f1bea8971f24de5b0a1da678891711f">📜Portfolio</a>
 
 <!--
 **yoonjoo-lee/yoonjoo-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
