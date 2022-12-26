@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://closed-cereal-0c2.notion.site/3044eaba4be240df9d5ca3b5535d2d82">📌RESUME</a><br>
+<a href="https://closed-cereal-0c2.notion.site/d06693ccc2cf455d86fde96303a5e1bb">📌RESUME</a><br>
 <a href="https://closed-cereal-0c2.notion.site/Portfolio-0f1bea8971f24de5b0a1da678891711f">🚀PORTFOLIO</a><br>
 <a href="https://blog.naver.com/dbswn2414">📜BLOG</a>
 
